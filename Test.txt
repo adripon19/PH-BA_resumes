@@ -1,1 +1,19 @@
 Ceci est un test en vue de faire un fichier latex git
+
+Marche à suivre pour créer un git :
+
+Si l'on veut copie ce qui est sur le repository:
+
+    - créer une clé ssh
+    - l'ajouter dans settings
+    - Se déplacer avec le terminal à l'endroit ou créer le dossier local
+    - faire "git clone + adresse_du_repository"
+    
+  
+
+Comment faire un commit ? (procédure)
+
+
+Comment ajouter sa branche sur le repository ?
+
+
